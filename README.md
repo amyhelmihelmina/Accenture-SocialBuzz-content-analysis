@@ -22,9 +22,10 @@ As per the client brief, Social Buzz made three demands in their partnership wit
 3. Google Studio Looker: visualisation, calculated field
 
 ## Findings
-<img width="1018" alt="Screenshot 2024-06-11 at 12 04 57" src="https://github.com/amyhelmihelmina/Accenture-SocialBuzz-content-analysis/assets/166671626/5653034b-80dd-4587-ae57-e1ca4853a3da">
-
 Using the Looker dashboard, I discovered the following insights:
+<img width="1018" alt="Screenshot 2024-06-11 at 12 04 57" src="https://github.com/amyhelmihelmina/Accenture-SocialBuzz-content-analysis/assets/166671626/5653034b-80dd-4587-ae57-e1ca4853a3da">
+Link to dashboard: https://lookerstudio.google.com/reporting/e1e4e5c2-880a-4026-964c-1868fdc8ee29 
+
 1. Top 5 categories: animals, healthy eating, technology, science, cooking
 2. Content type: majority of contents were in the form of photo, followed by video, GIF and audio. Whilst most other categories came in almost similar proportions for every content type, animal contents were mostly photo and audio, and technology mostly in audio.
 3. Time of posts: highest user traffic is reported in the morning, followed by early morning, afternoon, then evening. Usage volume is consistent throughout the week.
