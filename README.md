@@ -4,7 +4,7 @@ This project is a job simulation prepared by Accenture available on Forage websi
 ## Executive Summary
 Using Excel, PowerPoint and Looker, I cleaned, transformed and visualised dataset provided by Accenture's client, Social Buzz, to answer their business demands. After analysing the sample dataset, I offer the following insights to the big data audit team for further action:
 1. The most popular categories are asssociated to positive sentiments, with some to negative. To safeguard users, consider introducing features that allow users to mute trigger words and/or topics, and create visual prompts of trigger warnings. 
-2. The heaviest traffic flow tend to be in the morning, so 
+2. The heaviest traffic flow tend to be in the morning and early morning. Ensure relevant teams oversee that the server is up and running for these period.
 
 ## Business Questions
 As per the client brief, Social Buzz made three demands in their partnership with Accenture. One of them being wanting to understand how the world's biggest companies manage the challenges of big data. The analytics team is responsible for conducting an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
@@ -22,7 +22,8 @@ As per the client brief, Social Buzz made three demands in their partnership wit
 3. Google Studio Looker: visualisation, calculated field
 
 ## Findings
-<img width="1020" alt="Screenshot 2024-06-11 at 11 47 11" src="https://github.com/amyhelmihelmina/Accenture-SocialBuzz-content-analysis/assets/166671626/9838c10a-4513-446b-b2a3-7025c9c0b7a8">
+<img width="1018" alt="Screenshot 2024-06-11 at 12 04 57" src="https://github.com/amyhelmihelmina/Accenture-SocialBuzz-content-analysis/assets/166671626/5653034b-80dd-4587-ae57-e1ca4853a3da">
+
 Using the Looker dashboard, I discovered the following insights:
 1. Top 5 categories: animals, healthy eating, technology, science, cooking
 2. Content type: majority of contents were in the form of photo, followed by video, GIF and audio. Whilst most other categories came in almost similar proportions for every content type, animal contents were mostly photo and audio, and technology mostly in audio.
